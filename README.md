@@ -1,4 +1,19 @@
-# 🎓 Student Performance Predictor
+# 🎓 Student Performance Predictor<img width="3572" height="722" alt="08_residual_plots" src="https://github.com/user-attachments/assets/08bbdac7-650f-4d3b-bd8a-dad8f53d213e" />
+<img width="1468" height="590" alt="07_model_comparison" src="https://github.com/user-attachments/assets/ac34f081-e84b-41a6-87ba-387c2e0b766a" />
+<img width="1174" height="722" alt="06_feature_importance" src="https://github.com/user-attachments/assets/bb0b642c-6cbb-4d70-953c-2d5fb08e7495" />
+<img width="1471" height="1531" alt="05_pairplot" src="https://github.com/user-attachments/assets/f4236817-636d-4b8a-88e9-0cd2e3382208" />
+<img width="2072" height="721" alt="04_categorical_boxplots" src="https://github.com/user-attachments/assets/346d1b67-f2a9-4744-9f1d-54424419de28" />
+<img width="2222" height="1820" alt="03_scatter_vs_target" src="https://github.com/user-attachments/assets/4143ccbb-8074-4a53-a634-a18c7cf0d9c4" />
+<img width="1386" height="1230" alt="02_correlation_heatmap" src="https://github.com/user-attachments/assets/98071213-cc15-4aea-bda1-66a14510b2cb" />
+<img width="1044" height="602" alt="01_target_distribution" src="https://github.com/user-attachments/assets/3fde0c7a-4276-4d6a-809c-d005a1e1d00f" />
+<img width="1104" height="602" alt="00_missing_values" src="https://github.com/user-attachments/assets/9633d44c-5ac3-485a-b2e0-20d8421ee085" />
+
+
+> 🚀 A production-ready Machine Learning project that predicts student exam performance using academic, behavioral, and lifestyle features.
+
+![Python](https://img.shields.io/badge/Python-3.10-blue)
+![ML](https://img.shields.io/badge/Machine%20Learning-Scikit--Learn-orange)
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
 
 A complete, production-structured Machine Learning project that predicts student exam scores based on study habits, lifestyle factors, and academic history.
 
